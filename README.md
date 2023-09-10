@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hillgate😁
 - 👀 I’m interested in software development and electronics!
-- 🌱 I’m currently learning C, C++ and using C++ with GUI (WinForms).
+- 🌱 I’m currently looking for repositories that I can start contributing to!
+
 <!--nn
 -  I’m looking to collaborate on ...
 #- 📫 How to reach me ...
